@@ -1,0 +1,35 @@
+
+SRM College Guide (Sample)
+
+Admissions:
+- Application opens in January; last date is March 31.
+- Entrance exams are conducted in April; results by May 15.
+
+Library:
+- Open Mon–Sat, 8:00 AM – 8:00 PM; Sun, 10:00 AM – 4:00 PM.
+- Late fees: ₹2 per day for overdue books.
+- Digital library: Use your college email to access e‑journals.
+
+Attendance & Exams:
+- Minimum attendance: 75% per course.
+- Internal assessments: 2 tests + 1 assignment per semester.
+- End‑semester exams: 60% of total grade.
+- Make‑up exams allowed only with medical certificate.
+
+Labs & Wi‑Fi:
+- Labs open 9:00 AM – 6:00 PM on weekdays.
+- Wi‑Fi: Connect to "SRM‑Campus"; login with student ID.
+
+Clubs & Events:
+- Tech clubs: AI/ML Club (Fri 5 PM), Robotics Club (Wed 4 PM).
+- Cultural: Music Club (Tue 5 PM), Drama Society (Thu 5 PM).
+- Annual "Innovate Fest" in September; project submissions due Aug 20.
+
+Hostel & Mess:
+- Hostel entry closes at 9:30 PM.
+- Mess provides veg & non‑veg; weekly menu on the portal every Sunday.
+
+Contacts:
+- Admissions: admissions@srm.edu, +91‑44‑1234‑5678
+- Library Helpdesk: library@srm.edu
+- IT Support: itsupport@srm.edu
